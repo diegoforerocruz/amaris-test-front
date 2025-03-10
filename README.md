@@ -1,6 +1,7 @@
 # AmarisFrontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
+This application is the front of the Amaris consulting developer test where the environments folder file must be changed based on where the backend will be deployed
 
 ## Development server
 
