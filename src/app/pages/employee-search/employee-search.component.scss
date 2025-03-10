@@ -1,0 +1,32 @@
+.container {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    .title {
+        text-align: center;
+        margin: 20px 0;
+    }
+    form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .form-field {
+        margin: 0 10px;
+    }
+    .data-display-section {
+        margin: 20px 20px;
+        padding-bottom: 20px;
+    }
+    .table-container {
+        border-radius: 2%;
+        overflow: hidden;
+    }
+
+    .error-msg {
+        color: red;
+    }
+}
